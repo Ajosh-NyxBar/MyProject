@@ -30,7 +30,7 @@ Selamat datang di portofolio proyek saya! Di sini Anda dapat menemukan berbagai 
 
 7. **Jual Buku**
    - [Kunjungi Situs](https://buku-five.vercel.app/)
-   - Deskripsi: Platform penjualan buku dengan katalog yang luas dan sistem pembelian yang mudah.
+   - Deskripsi: Platform penjualan buku dengan katalog
 
 8. **Jual Kopi**
    - [Kunjungi Situs](https://coffe-shop-ashy-eight.vercel.app/)
